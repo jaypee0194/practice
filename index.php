@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is a sample code with jaypee</h1>
+    <h1>This is a sample code with master</h1>
 </body>
 </html>
